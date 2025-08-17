@@ -1,4 +1,4 @@
-# Uzence Front-End Assignment 🚀
+# Uzence Front-End Assignment 
 
 This repository contains my submission for the Uzence Front-End Internship Assignment.  
 The task was to build **two reusable UI components** (`InputField` and `DataTable`) using **React, TypeScript, TailwindCSS, and Storybook**.
