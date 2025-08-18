@@ -47,7 +47,7 @@ A lightweight, responsive data table with essential functionality.
 ## 📘 Storybook Preview
 You can explore the components interactively in Storybook here:  
 
-🔗 **Live Preview:** [View Storybook on Chromatic](https://68a21d6ab5234b82bb2fb0ec-uusdbsifbv.chromatic.com/)  
+🔗 **Live Preview:** [View Storybook on vercel](https://uzence-assignment-psi.vercel.app)  
 
 To run locally:
 npm run storybook
